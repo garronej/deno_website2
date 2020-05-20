@@ -900,7 +900,7 @@
     "repo": "is_exe",
     "desc": "detect if a file is executable or not"
   },
-    "is_url": {
+  "is_url": {
     "type": "github",
     "owner": "rubiin",
     "repo": "is_url",
@@ -1262,7 +1262,7 @@
     "owner": "open-zhy",
     "repo": "podio-ts",
     "desc": "Podio client module for Deno and Typescript programming"
-  },  
+  },
   "pogo": {
     "type": "github",
     "owner": "sholladay",
@@ -1715,6 +1715,12 @@
     "owner": "KSXGitHub",
     "repo": "deno-tree",
     "desc": "Traverse filesystem tree"
+  },
+  "turbo_sniffle": {
+    "type": "github",
+    "owner": "garronej",
+    "repo": "turbo_sniffle",
+    "desc": "A cool module that does things"
   },
   "types": {
     "type": "github",
