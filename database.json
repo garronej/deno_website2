@@ -54,6 +54,12 @@
     "repo": "attain",
     "desc": "A middleware web framework, inspired by express.js"
   },
+  "automatic_carnival": {
+    "type": "github",
+    "owner": "garronej",
+    "repo": "automatic_carnival",
+    "desc": "A cool module that does things"
+  },
   "await_mutex": {
     "type": "github",
     "owner": "Matthew-Smith",
@@ -900,7 +906,7 @@
     "repo": "is_exe",
     "desc": "detect if a file is executable or not"
   },
-    "is_url": {
+  "is_url": {
     "type": "github",
     "owner": "rubiin",
     "repo": "is_url",
@@ -1262,7 +1268,7 @@
     "owner": "open-zhy",
     "repo": "podio-ts",
     "desc": "Podio client module for Deno and Typescript programming"
-  },  
+  },
   "pogo": {
     "type": "github",
     "owner": "sholladay",
